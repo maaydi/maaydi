@@ -1,6 +1,33 @@
-- 👋 Hi, I’m Mohamed Ali AIDI [@maaydi]
-- 👀 I’m interested in AI, DL and Software development
-- 🌱 ... :)
+## Mohamed Ali AIDI [@maaydi]
+
+* ### Data Scientist
+
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow"  alt="tools"/>
+</p>
+
+* ### FullStack software engineer
+
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes"  alt="tools"/>
+</p>
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=androidstudio,sqlite,git"  alt="tools"/>
+</p>
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,cmake"  alt="tools"/>
+</p>
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,ts"  alt="tools"/>
+</p><p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java,hibernate,maven,spring"  alt="tools"/>
+</p><p style="text-align: center;">
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nginx,postman,qt"  alt="tools"/>
+</p>
+<p style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres"  alt="tools"/>
+</p>
 
 <!---
 maaydi/maaydi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
