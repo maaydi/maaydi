@@ -1,15 +1,11 @@
 # Hi everyone :wave:
 
-I am a data scientist and full stack software engineer from **Tunisia** who has 3 years' experience.
+I am a **Data Scientist** and **Full Stack Software Engineer** from **Tunisia** who has 3 years' experience.
 
 Throughout my experience, I participated in various phases of analysis, design, documentation, development, and deployment of IT projects.
 In addition, as a data scientist, I participated in the development of artificial intelligence solutions.
 __________________
 ## My skills 📜
-### Mobile development
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter"  alt="React Native, Flutter, ..."/>
-</p>
 
 ### Backend development
 <p align="center">
@@ -20,6 +16,12 @@ __________________
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,wasm"  alt="ReactJS, TypeScript, WebAssembly, ..."/>
 </p>
+
+### Mobile development
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,flutter"  alt="React Native, Flutter, ..."/>
+</p>
+
 
 ### Artificial Intelligence
 <p align="center">
@@ -45,40 +47,29 @@ __________________
     <img src="https://skillicons.dev/icons?i=jenkins,git,docker,kubernetes"  alt="CI/CD Pipeline tools"/> 
 </p>
 
-### Stack ELK (Elasticsearch, Kibana, Logstash).
-### Security: OpenID Connect, Active Directory, OAuth2, Keycloak
-### Software design: UML 2.0
-### Operating systems: Linux, Windows, Mac OS.
-### Development environments: IntelliJ IDE, CLion, VSCode, Android-Studio, XCode.
+### Security
+<p align="center">
+<img src="https://openid.net/images/logo/openid-icon-100x100.png" width="53" height="53" alt="OpenID Connect">
+<img src="https://www.keycloak.org/resources/images/keycloak_logo_200px.svg" width="150" height="53" alt="Keycloak" style="margin-left:5px">
+</p>
+
+### Software design
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" width="70" height="53" alt="UML 2.0"></p>
+
+### Operating systems
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" width="60" height="53" alt="Microsoft Windows" style="margin-right:5px">
+    <img src="https://skillicons.dev/icons?i=linux"  alt="Linux"/>
+    <img src="https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg" width="120" height="53" alt="Ubuntu" style="margin-left:5px">
+</p>
+
+### Development environments
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="60" height="53" alt="IntelliJ IDE">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode"  alt="Android Studio, Vscode"/>
 </p>
 
-- Collaboration tools: MS Office, Google Docs.
-- ALM tools: Git, Maven, TFS.
-- Project management methodology: Scrum.
+### Stack ELK : Elasticsearch, Kibana, Logstash
+### Collaboration tools: MS Office, Google Docs.
+### Project management methodology: Scrum.
 
-* ### Data Scientist
-
-
-
-* ### FullStack software engineer
-
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,sqlite,git"  alt="tools"/>
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,maven,spring"  alt="tools"/>
-</p>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nginx,postman,qt"  alt="tools"/>
-</p>
-
-
-<!---
-maaydi/maaydi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
