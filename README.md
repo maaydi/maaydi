@@ -8,7 +8,7 @@
 
 * ### FullStack software engineer
 
-<p style="text-align: center;">
+<p style="align: center;">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes"  alt="tools"/>
 </p>
 <p style="text-align: center;">
