@@ -50,7 +50,7 @@ __________________
 ### Security
 <p align="center">
 <img src="https://openid.net/wp-content/uploads/2022/11/df-l-oix-l-openid_rgb-300dpi.png" width="150" height="53" alt="OpenID Connect">
-<img src="https://www.keycloak.org/resources/images/keycloak_logo_200px.svg" width="150" height="53" alt="Keycloak" style="margin-left:5px">
+<img src="https://www.keycloak.org/resources/images/logo.svg" width="150" height="53" alt="Keycloak" style="margin-left:5px">
 </p>
 
 ### Software design
