@@ -59,7 +59,6 @@ __________________
 ### Operating systems
 <p align="center">
     <img src="https://developer.apple.com/licensing-trademarks/images/mac-logo.svg" width="60" height="53" alt="Mac OS" style="margin-right:5px">
-    <img src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/05/Windows-10-Logo.png" width="150" height="53" alt="Microsoft Windows" style="margin-right:5px">
     <img src="https://skillicons.dev/icons?i=linux"  alt="Linux"/>
     <img src="https://assets.ubuntu.com/v1/a7e3c509-Canonical%20Ubuntu.svg" width="120" height="53" alt="Ubuntu" style="margin-left:5px">
 </p>
