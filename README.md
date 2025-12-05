@@ -1,15 +1,12 @@
 # Hi everyone :wave:
 
-I am a **Data Scientist** and **Full Stack Software Engineer** from **Tunisia** who has 5 years' experience.
-
-Throughout my experience, I participated in various phases of analysis, design, documentation, development, and deployment of IT projects.
-In addition, as a data scientist, I participated in the development of artificial intelligence solutions.
+**Senior Full Stack Software Engineer** with 6 years of professional experience, including 4 years focused on building robust and scalable solutions using Java/JEE and React JS. I work across the entire development stack, with a strong emphasis on code quality, performance, and clean architecture.
 __________________
 ## My skills 📜
 
 ### Backend development
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,c,cpp,java,hibernate,maven,spring"  alt="Python, C/C++, Java, Quarkus, ..."/>
+    <img src="https://skillicons.dev/icons?i=java,hibernate,maven,spring"  alt="Java, JEE, Quarkus, Spring boot ..."/>
 </p>
 
 ### Web development
@@ -19,7 +16,7 @@ __________________
 
 ### Mobile development
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,flutter"  alt="React Native, Flutter, ..."/>
+    <img src="https://skillicons.dev/icons?i=react"  alt="React Native, ..."/>
 </p>
 
 
